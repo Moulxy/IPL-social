@@ -1,0 +1,14 @@
+{
+  "name": "ipl-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/*.js"
+  },
+  "author": "Moulay Nimour",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^5.5.0"
+  }
+}
